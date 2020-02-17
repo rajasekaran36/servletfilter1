@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [17/Feb/2020:17:52:44 +0530] "GET /mainpage?uname=raja&password=raja123 HTTP/1.1" 200 21 http-bio-9090-exec-2 334
+0:0:0:0:0:0:0:1 - - [17/Feb/2020:17:52:49 +0530] "GET /mainpage?uname=raja&password=t HTTP/1.1" 200 32 http-bio-9090-exec-4 13
